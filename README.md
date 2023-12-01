@@ -12,7 +12,7 @@ Adhere to criticism and self-criticism, keep an open attitude to every opportuni
 **My Devices：**
 - 🍎&nbsp;Mac: 
     - MacBookAirM2 16G+512G
-- <img width="20" height="20" src="./img/computer.png" />&nbsp;Windows: 
+- 🖥️&nbsp;Windows: 
     - MSIZ690 + Intel12700KF + RTX3090X + OLOy32G
 - &nbsp;<img width="15" height="15" src="./img/monitor.png" />&nbsp;Monitor: 
     - ASUS VG27AQL1A 27-inch 2k 177hz
@@ -21,6 +21,7 @@ Adhere to criticism and self-criticism, keep an open attitude to every opportuni
     - XiaoMi13 12G+256G
 - 📽️&nbsp;Projector: 
     - JMGO N1S Pro 4K
+<br/>
 
 **languages and tools:**  
 
@@ -31,17 +32,7 @@ Adhere to criticism and self-criticism, keep an open attitude to every opportuni
 <code><img height="20" src="./img/nodejs.png"></code>
 <code><img height="20" src="./img/mysql.png"></code>
 <code><img height="20" src="./img/git.png"></code>
-
 <br/>
-
-<br/><br/>
-
-<br/>
-
-<br/>
-
-<br/>
-
 <br/>
 
 ## 今年汇总 ✨
