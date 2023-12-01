@@ -7,7 +7,20 @@ Adhere to criticism and self-criticism, keep an open attitude to every opportuni
 
 <img align="right" alt="GIF" src="./img/code.gif?raw=true" width="500" height="320" />
 
-- :) ask me about anything, I am happy to help;
+- 😀 ask me about anything, I am happy to help;
+
+**My Devices：**
+- 🍎&nbsp;Mac: 
+    - MacBookAirM2 16G+512G
+- <img width="20" height="20" src="./img/computer.png" />&nbsp;Windows: 
+    - MSIZ690 + Intel12700KF + RTX3090X + OLOy32G
+- &nbsp;<img width="15" height="15" src="./img/monitor.png" />&nbsp;Monitor: 
+    - ASUS VG27AQL1A 27-inch 2k 177hz
+    - WESCOM IPS 31.5-inch 4k
+- 📱&nbsp;Phone: 
+    - XiaoMi13 12G+256G
+- 📽️&nbsp;Projector: 
+    - JMGO N1S Pro 4K
 
 **languages and tools:**  
 
