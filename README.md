@@ -9,7 +9,7 @@ Adhere to criticism and self-criticism, keep an open attitude to every opportuni
 
 - 😀 ask me about anything, I am happy to help;
 
-**My Devices：**
+**My devices：**
 - 🍎&nbsp;Mac: 
     - MacBookAirM2 16G+512G
 - 🖥️&nbsp;Windows: 
@@ -23,15 +23,15 @@ Adhere to criticism and self-criticism, keep an open attitude to every opportuni
     - JMGO N1S Pro 4K
 <br/>
 
-**languages and tools:**  
+**Languages and tools:**  
 
-<code><img height="20" src="./img/python.png"></code>
-<code><img height="20" src="./img/golang.png"></code>
-<code><img height="20" src="./img/javascript.png"></code>
-<code><img height="20" src="./img/vue.png"></code>
-<code><img height="20" src="./img/nodejs.png"></code>
-<code><img height="20" src="./img/mysql.png"></code>
-<code><img height="20" src="./img/git.png"></code>
+<code><img height="35" src="./img/python.png"></code>
+<code><img height="35" src="./img/golang.png"></code>
+<code><img height="35" src="./img/javascript.png"></code>
+<code><img height="35" src="./img/vue.png"></code>
+<code><img height="35" src="./img/nodejs.png"></code>
+<code><img height="35" src="./img/mysql.png"></code>
+<code><img height="35" src="./img/git.png"></code>
 <br/>
 <br/>
 
