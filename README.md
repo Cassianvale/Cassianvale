@@ -46,4 +46,4 @@ Adhere to criticism and self-criticism, keep an open attitude to every opportuni
 </div>
 <br/>
 * 🌐 中文 · English
-* ⏰ 09:00 - 02:00 「[UTC+8](https://time.is/UTC+8)」
+* ⏰ 09:00 - 02:00 <a href="https://time.is/UTC+8">「UTC+8」</a>
