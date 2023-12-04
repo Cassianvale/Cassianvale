@@ -41,9 +41,6 @@ Adhere to criticism and self-criticism, keep an open attitude to every opportuni
 <img align="" height="160px" src="https://github-readme-stats.vercel.app/api?username=Cassianvale&show_icons=true&locale=cn&line_height=21&bg_color=0,EC6C6C,FFD479,FFFC79,73FA79" />
 <img  align="" height="160px" src="https://github-readme-stats.vercel.app/api/top-langs/?username=Cassianvale&locale=cn&bg_color=0,73FA79,73FDFF,D783FF&layout=compact" />
 </div>
-<div>
-<img src="https://count.getloli.com/get/@:Cassianvale?theme=rule34" alt=":Cassianvale" />
-</div>
 <br/>
 * 🌐 中文 · English
 <br/>
