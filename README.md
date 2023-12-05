@@ -15,16 +15,17 @@ Adhere to criticism and self-criticism, keep an open attitude to every opportuni
 
 ### - My devices
 
-- <img width="17" height="17" src="./img/macos.png" />&nbsp;Mac:
+- <img width="17" height="17" src="./img/macos.png" />&nbsp;Mac: 
   - MacBookAirM2 16G+512G
-- <img width="17" height="17" src="./img/windows.png" />&nbsp;Windows:
+- <img width="17" height="17" src="./img/windows.png" />&nbsp;Windows: 
   - MSIZ690 + Intel12600KF + RTX3090 + OLOyDDR4 32G 
-- <img width="15" height="15" src="./img/iMac.png" />&nbsp;Monitor:
+- <img width="15" height="15" src="./img/iMac.png" />&nbsp;Monitor: 
   - ASUS VG27AQL1A 27-inch 2k 177hz
   - WESCOM IPS 31.5-inch 4k
-- <img width="17" height="17" src="./img/phone.png" />&nbsp;Phone:
+- <img width="17" height="17" src="./img/phone.png" />&nbsp;Phone: 
   - XiaoMi13 12G+256G
-- <img width="15" height="15" src="./img/projector.png" />&nbsp;Projector: - JMGO N1S Pro 4K
+- <img width="15" height="15" src="./img/projector.png" />&nbsp;Projector: 
+  - JMGO N1S Pro 4K
   <br/>
 
 ### - Languages and Tools
