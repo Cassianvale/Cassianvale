@@ -4,16 +4,13 @@
 <div align="center">
 <h3><img src="https://media.giphy.com/media/WUlplcMpOCEmTGBtBW/giphy.gif" width="30"> 🙎 Cassian Vale | 💻 Test Development Engineer | 🛸 CN <img src="https://media.giphy.com/media/WUlplcMpOCEmTGBtBW/giphy.gif" width="30"></h3>
 </div>
-
-
-Hello, I'm Cassianvale, a dedicated quality assurance engineer from China, who has pursued learning independently.
+<p align="center">
+<h4>Hello, I'm Cassianvale, a dedicated quality assurance engineer from China, who has pursued learning independently.</h4>
 
 Superstitious new tools and methods,
 Adhere to criticism and self-criticism, keep an open attitude to every opportunity, and have the courage to try new things.
-
 <img align="right" alt="GIF" src="./img/code.gif?raw=true" width="500" height="320" />
-
-- 😀 ask me about anything, I am happy to help;
+</p>
 
 ### - My devices
 - <img width="17" height="17" src="./img/macos.png" />&nbsp;Mac: 
@@ -41,6 +38,7 @@ Adhere to criticism and self-criticism, keep an open attitude to every opportuni
     <img src="svg/dev/frameworks/react.svg" alt="React" style="vertical-align:top margin:6px 4px">
     <img src="svg/dev/frameworks/nodejs.svg" alt="nodejs" style="vertical-align:top margin:6px 4px">
     <img src="svg/dev/misc/datascience.svg" alt="datascience" style="vertical-align:top margin:6px 4px">
+    <img src="svg/dev/misc/cloud.svg" alt="cloud" style="vertical-align:top; margin:6px 4px">
     <img src="svg/dev/tools/visualstudio_code.svg" alt="Visual Studio Code" style="vertical-align:top margin:6px 4px">
     <a href="https://leetcode.cn/u/cassianvale/">
     <img src="svg/dev/services/leetcode.svg" alt="LeetCode" style="vertical-align:top margin:6px 4px">
