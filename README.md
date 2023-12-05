@@ -1,8 +1,7 @@
 # Hello there! 👋🏻 I am Cassianvale ! <img src="./img/cat.gif" alt="Meaow" width="50" />
-<img src="https://media.giphy.com/media/WUlplcMpOCEmTGBtBW/giphy.gif" width="30">
-
 <div align="center">
-<h3><img src="https://media.giphy.com/media/WUlplcMpOCEmTGBtBW/giphy.gif" width="30"> 🙎 Cassian Vale | 💻 Test Development Engineer | 🛸 CN <img src="https://media.giphy.com/media/WUlplcMpOCEmTGBtBW/giphy.gif" width="30"></h3>
+<h3><img src="https://media.giphy.com/media/WUlplcMpOCEmTGBtBW/giphy.gif" width="30"> 🙎 Cassian Vale | 💻 Test Development Engineer | 🛸 CN <img src="https://media.giphy.com/media/WUlplcMpOCEmTGBtBW/giphy.gif" width="30">
+</h3>
 </div>
 <p align="center">
 <h4>Hello, I'm Cassianvale, a dedicated quality assurance engineer from China, who has pursued learning independently.</h4>
