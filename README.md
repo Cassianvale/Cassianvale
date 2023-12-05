@@ -38,12 +38,13 @@ Adhere to criticism and self-criticism, keep an open attitude to every opportuni
     <br/>
     <img src="svg/nodejs_larger.svg" alt="nodejs" style="vertical-align:top margin:6px 4px">
     <img src="svg/datascience.svg" alt="datascience" style="vertical-align:top margin:6px 4px">
+    <img src="svg/docker.svg" alt="Docker" style="vertical-align:top margin:6px 4px">
     <img src="svg/cloud.svg" alt="cloud" style="vertical-align:top; margin:6px 4px">
-    <img src="svg/visualstudio_code.svg" alt="Visual Studio Code" style="vertical-align:top margin:6px 4px">
     <a href="https://leetcode.cn/u/cassianvale/">
     <img src="svg/leetcode.svg" alt="LeetCode" style="vertical-align:top margin:6px 4px">
     </a>
-    <img src="svg/docker.svg" alt="Docker" style="vertical-align:top margin:6px 4px">
+    <img src="svg/visualstudio_code.svg" alt="Visual Studio Code" style="vertical-align:top margin:6px 4px">
+
 
 </p>
 <br/>
