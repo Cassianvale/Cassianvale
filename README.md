@@ -4,13 +4,13 @@
 <h3><img src="https://media.giphy.com/media/WUlplcMpOCEmTGBtBW/giphy.gif" width="30"> 🙎 Cassian Vale | 💻 Test Development Engineer | 🛸 CN <img src="https://media.giphy.com/media/WUlplcMpOCEmTGBtBW/giphy.gif" width="30">
 </h3>
 </div>
+
 <p align="center">
 <h4>Hello, I'm Cassianvale, a dedicated quality assurance engineer from China, who has pursued learning independently.</h4>
 
 Superstitious new tools and methods,
 Adhere to criticism and self-criticism, keep an open attitude to every opportunity, and have the courage to try new things.
 <img align="right" alt="GIF" src="./img/code.gif?raw=true" width="500" height="320" />
-
 </p>
 
 ### - My devices
@@ -18,7 +18,7 @@ Adhere to criticism and self-criticism, keep an open attitude to every opportuni
 - <img width="17" height="17" src="./img/macos.png" />&nbsp;Mac:
   - MacBookAirM2 16G+512G
 - <img width="17" height="17" src="./img/windows.png" />&nbsp;Windows:
-  - MSIZ690 + Intel12700KF + RTX3090X + OLOy32G
+  - MSIZ690 + Intel12600KF + RTX3090 + OLOyDDR4 32G 
 - <img width="15" height="15" src="./img/iMac.png" />&nbsp;Monitor:
   - ASUS VG27AQL1A 27-inch 2k 177hz
   - WESCOM IPS 31.5-inch 4k
