@@ -1,4 +1,10 @@
 # Hello there! 👋🏻 I am Cassianvale ! <img src="./img/cat.gif" alt="Meaow" width="50" />
+<img src="https://media.giphy.com/media/WUlplcMpOCEmTGBtBW/giphy.gif" width="30">
+
+<div align="center">
+<h3><img src="https://media.giphy.com/media/WUlplcMpOCEmTGBtBW/giphy.gif" width="30"> 🙎 Cassian Vale | 💻 Test Development Engineer | 🛸 CN <img src="https://media.giphy.com/media/WUlplcMpOCEmTGBtBW/giphy.gif" width="30"></h3>
+</div>
+
 
 Hello, I'm Cassianvale, a dedicated quality assurance engineer from China, who has pursued learning independently.
 
@@ -9,29 +15,39 @@ Adhere to criticism and self-criticism, keep an open attitude to every opportuni
 
 - 😀 ask me about anything, I am happy to help;
 
-**My devices：**
-- 🍎&nbsp;Mac: 
+### - My devices
+- <img width="17" height="17" src="./img/macos.png" />&nbsp;Mac: 
     - MacBookAirM2 16G+512G
-- 🖥️&nbsp;Windows: 
+- <img width="17" height="17" src="./img/windows.png" />&nbsp;Windows: 
     - MSIZ690 + Intel12700KF + RTX3090X + OLOy32G
-- <img width="15" height="15" src="./img/monitor.png" />&nbsp;Monitor: 
+- <img width="15" height="15" src="./img/iMac.png" />&nbsp;Monitor: 
     - ASUS VG27AQL1A 27-inch 2k 177hz
     - WESCOM IPS 31.5-inch 4k
-- 📱&nbsp;Phone: 
+- <img width="17" height="17" src="./img/phone.png" />&nbsp;Phone: 
     - XiaoMi13 12G+256G
-- 📽️&nbsp;Projector: 
+- <img width="15" height="15" src="./img/projector.png" />&nbsp;Projector: 
     - JMGO N1S Pro 4K
 <br/>
 
-**Languages and tools:**  
+### - Languages and Tools
 
-<code><img height="35" src="./img/python.png"></code>
-<code><img height="35" src="./img/golang.png"></code>
-<code><img height="35" src="./img/javascript.png"></code>
-<code><img height="35" src="./img/vue.png"></code>
-<code><img height="35" src="./img/nodejs.png"></code>
-<code><img height="35" src="./img/mysql.png"></code>
-<code><img height="35" src="./img/git.png"></code>
+<p align="center">
+    <img src="svg/dev/languages/html.svg" alt="html" style="vertical-align:top margin:6px 4px">
+    <img src="svg/dev/languages/css3.svg" alt="css" style="vertical-align:top margin:6px 4px">
+    <img src="svg/dev/languages/python.svg" alt="python" style="vertical-align:top margin:6px 4px">
+    <img src="svg/dev/languages/go.svg" alt="go" style="vertical-align:top margin:6px 4px">
+    <img src="svg/dev/languages/js.svg" alt="javascript" style="vertical-align:top margin:6px 4px">
+    <img src="svg/dev/frameworks/vue.svg" alt="Vue.js" style="vertical-align:top margin:6px 4px">
+    <img src="svg/dev/frameworks/react.svg" alt="React" style="vertical-align:top margin:6px 4px">
+    <img src="svg/dev/frameworks/nodejs.svg" alt="nodejs" style="vertical-align:top margin:6px 4px">
+    <img src="svg/dev/misc/datascience.svg" alt="datascience" style="vertical-align:top margin:6px 4px">
+    <img src="svg/dev/tools/visualstudio_code.svg" alt="Visual Studio Code" style="vertical-align:top margin:6px 4px">
+    <a href="https://leetcode.cn/u/cassianvale/">
+    <img src="svg/dev/services/leetcode.svg" alt="LeetCode" style="vertical-align:top margin:6px 4px">
+    </a>
+    <img src="svg/dev/tools/docker.svg" alt="Docker" style="vertical-align:top margin:6px 4px">
+
+</p>
 <br/>
 <br/>
 
@@ -45,3 +61,10 @@ Adhere to criticism and self-criticism, keep an open attitude to every opportuni
 * 🌐 中文 · English
 <br/>
 * ⏰ 09:00 - 02:00 <a href="https://time.is/UTC+8" class="no-underline">「UTC+8」</a>
+<br/>
+<h1 align='center'>⚡️<i>Stay awesome!</i>⚡️</h1>
+
+<p align="center">
+        <img src="https://raw.githubusercontent.com/mayhemantt/mayhemantt/Update/svg/Bottom.svg" alt="Github Stats" />
+</p>
+
