@@ -36,7 +36,7 @@ Adhere to criticism and self-criticism, keep an open attitude to every opportuni
     <img src="svg/vue.svg" alt="Vue.js" style="vertical-align:top margin:6px 4px">
     <img src="svg/react.svg" alt="React" style="vertical-align:top margin:6px 4px">
     <br/>
-    <img src="svg/nodejs.svg" alt="nodejs" style="vertical-align:top margin:6px 4px">
+    <img src="svg/nodejs_larger.svg" alt="nodejs" style="vertical-align:top margin:6px 4px">
     <img src="svg/datascience.svg" alt="datascience" style="vertical-align:top margin:6px 4px">
     <img src="svg/cloud.svg" alt="cloud" style="vertical-align:top; margin:6px 4px">
     <img src="svg/visualstudio_code.svg" alt="Visual Studio Code" style="vertical-align:top margin:6px 4px">
