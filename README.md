@@ -18,7 +18,8 @@ Adhere to criticism and self-criticism, keep an open attitude to every opportuni
 - <img width="17" height="17" src="./img/macos.png" />&nbsp;Mac: 
   - MacBookAirM2 16G+512G
 - <img width="17" height="17" src="./img/windows.png" />&nbsp;Windows: 
-  - MSIZ690 + Intel12600KF + RTX3090 + OLOyDDR4 32G 
+  - MSIZ690 + Intel12600KF + RTX3090 + OLOyDDR4 32G
+  - Minisforum i5-13500H Hyper-v
 - <img width="15" height="15" src="./img/iMac.png" />&nbsp;Monitor: 
   - ASUS VG27AQL1A 27-inch 2k 177hz
   - WESCOM IPS 31.5-inch 4k
@@ -47,7 +48,6 @@ Adhere to criticism and self-criticism, keep an open attitude to every opportuni
     <img src="svg/leetcode.svg" alt="LeetCode" style="vertical-align:top margin:6px 4px">
     </a>
     <img src="svg/visualstudio_code.svg" alt="Visual Studio Code" style="vertical-align:top margin:6px 4px">
-
 </p>
 <br/>
 <br/>
