@@ -18,7 +18,7 @@ Adhere to criticism and self-criticism, keep an open attitude to every opportuni
 - <img width="17" height="17" src="./img/macos.png" />&nbsp;Mac: 
   - MacBookAirM2 16G+512G
 - <img width="17" height="17" src="./img/windows.png" />&nbsp;Windows: 
-  - MSIZ690 + Intel12600KF + RTX3090 + OLOyDDR4 32G
+  - MSIZ690 + i5-12600KF + RTX3090 + OLOyDDR4 32G
   - Minisforum i5-13500H Hyper-v
 - <img width="15" height="15" src="./img/iMac.png" />&nbsp;Monitor: 
   - ASUS VG27AQL1A 27-inch 2k 177hz
