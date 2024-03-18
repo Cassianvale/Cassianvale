@@ -19,7 +19,7 @@ Adhere to criticism and self-criticism, keep an open attitude to every opportuni
   - MacBookAir M2 16G+512G
 - <img width="17" height="17" src="./img/windows.png" />&nbsp;Windows: 
   - MSIZ690 + i5-12600KF + RTX3090 SUPRIM X 24G + OLOyDDR4 32G
-  - Minisforum i5-13500H Hyper-v
+  - Minisforum i5-13500H PVE-(OpenWRT,Ubuntu)
 - <img width="15" height="15" src="./img/iMac.png" />&nbsp;Monitor: 
   - ASUS VG27AQL1A 27-inch 2k 170hz
   - WESCOM IPS 31.5-inch 4k
