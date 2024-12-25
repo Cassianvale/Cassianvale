@@ -23,7 +23,7 @@ Adhere to criticism and self-criticism, keep an open attitude to every opportuni
   - ASUS VG27AQL1A 27-inch 2k 170hz
   - WESCOM IPS 31.5-inch 4k
 - <img width="17" height="17" src="./img/phone.png" />&nbsp;Phone: 
-  - XiaoMi15 16G+512G
+  - XiaoMi15 Pro 16G+512G
 - <img width="15" height="15" src="./img/projector.png" />&nbsp;Projector: 
   - JMGO N1S Pro 4K
   <br/>
